@@ -20,6 +20,7 @@ Main components:
 ### Repositories
 
 • NeuroCore → https://github.com/DLNicoletti/049200
+
 Europa
 https://github.com/DLNicoletti/Europa
   
