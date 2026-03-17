@@ -6,14 +6,4 @@ This profile contains an experimental research ecosystem exploring
 non-linear dynamics, invariance detection, and structural signatures
 in complex systems.
 
-### Repositories
-
-• NeuroCore → https://github.com/DLNicoletti/049200
-
-Europa
-https://github.com/DLNicoletti/Europa
-  
-• Invariance-055 → https://github.com/DLNicoletti/Invariance-055  
-
-• ASHI-CORE → https://github.com/DLNicoletti/ASHI-CORE  
-ARCHON → https://github.com/DLNicoletti/ARCHON
+https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest
