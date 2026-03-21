@@ -1,4 +1,4 @@
-STEM Computational Modeler | Domain-agnostic systems, structure & dynamics 💻
+STEM Computational Modeler | 💻
 
 ---
 
