@@ -8,8 +8,9 @@ STEM Computational Modeler 💻
 ### 📐
 Author: Davide Luca Nicoletti  
 First public release: 2026  
-Framework: ASHI-CORE™, EUROPA™, NeuroCore™
 
+Framework:  
+ASHI-CORE™ · EUROPA™ · NeuroCore™
 ---
 
 ## Research Ecosystem
