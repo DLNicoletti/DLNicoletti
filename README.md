@@ -51,7 +51,7 @@ Critical transition at Kc = 1.441
 
 ## 📊 Regime Transition Visualization ↓
 
-This section illustrates the operational principle of **ASHI-CORE™**:  
+This section illustrates the operational principle of **ASHI-CORE**:  
 the detection of structural regime transitions in high-entropy systems through a critical variability threshold.
 
 ---
