@@ -1,4 +1,6 @@
-STEM Computational Modeler 💻    
+STEM Computational Modeler 💻  
+Phase transitions • Feature-space transformations • Complex systems  
+Applications: aerospace telemetry, bioelectrical systems, high-entropy environments   
 
 <p align="center">
   <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
