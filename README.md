@@ -1,4 +1,4 @@
-STEM Computational Modeler 
+Complex Systems Modeler
 
 
 <p align="center">
