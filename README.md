@@ -14,8 +14,6 @@ ASHI-CORE™ · EUROPA™ · NeuroCore™
 
 ---
 
-## Research Ecosystem
-
 <p align="center">
 
 ### 🧠 NeuroCore™
