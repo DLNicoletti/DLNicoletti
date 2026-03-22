@@ -24,7 +24,7 @@ Feature-space transformation and regime encoding
 
 ---
 
-### ⚙️ ASHI-CORE
+### 📡 ASHI-CORE
 
 Local dispersion → global connectivity  
 Critical transition at Kc = 1.441  
