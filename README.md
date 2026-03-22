@@ -1,4 +1,4 @@
-STEM Computational Modeler 💻  
+STEM Computational Modeler 
 
 
 <p align="center">
