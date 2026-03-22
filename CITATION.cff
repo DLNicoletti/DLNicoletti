@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "NeuroCore™ Ecosystem"
+message: "If you use this framework, citation is required as specified below."
+type: software
+
+authors:
+  - given-names: Davide Luca
+    family-names: Nicoletti
+
+repository-code: "https://github.com/DLNicoletti/DLNicoletti"
+
+abstract: >
+  NeuroCore™ Ecosystem is a computational research framework for the analysis
+  of structure emergence in complex systems. It integrates complementary operators
+  for phase transition detection (ASHI-CORE™), feature-space transformation (EUROPA™),
+  and functional stability modeling (NeuroCore™), enabling the identification
+  of regimes, structural transitions, and invariant properties in high-entropy data.
+
+keywords:
+  - complex systems
+  - phase transitions
+  - invariants
+  - signal dynamics
+  - feature space transformation
+  - computational modeling
+
+license: "Proprietary-Research-Only"
+
+version: "1.0.0"
+date-released: "2026"
+
+preferred-citation:
+  type: software
+  authors:
+    - given-names: Davide Luca
+      family-names: Nicoletti
+  title: "NeuroCore™ Ecosystem"
+  year: 2026
+  url: "https://github.com/DLNicoletti/DLNicoletti"
