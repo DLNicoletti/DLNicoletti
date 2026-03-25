@@ -49,6 +49,8 @@ EUROPA defines a transformation operator Φ(X) that maps raw data into a structu
 - **Process:** continuous geometric transformation of the feature space  
 - **Output:** structured representation of regimes  
 
+https://github.com/DLNicoletti/Europa
+
 ---
 
 ### 📡 ASHI-CORE™
