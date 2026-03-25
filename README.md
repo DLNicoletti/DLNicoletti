@@ -9,8 +9,11 @@
 Author: Davide Luca Nicoletti  
 First public release: 2026 
 
-Framework:  
-ASHI-CORE™ · EUROPA™ · NeuroCore™
+---
+
+### PORTFOLIO
+
+https://orcid.org/0009-0002-2605-7729
 
 ---
 
