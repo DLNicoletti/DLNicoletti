@@ -142,6 +142,8 @@ ASHI-CORE formalizes the passage:
 > from continuous, bounded dynamics  
 > to discrete, structured regime encoding.
 
+https://github.com/DLNicoletti/ASHI-CORE
+
 ---
 
 ## 🔬 Research Direction
