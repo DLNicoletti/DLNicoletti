@@ -7,10 +7,10 @@
 
 ### 📐
 Author: Davide Luca Nicoletti  
+First public release: 2026 
 
 Framework:  
 ASHI-CORE™ · EUROPA™ · NeuroCore™
-First public release: 2026  
 
 ---
 
