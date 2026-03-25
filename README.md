@@ -28,6 +28,8 @@ https://orcid.org/0009-0002-2605-7729
 Functional Stability Modeling in Bioelectrical Systems  
 EEG • fNIRS • Signal Dynamics  
 
+https://github.com/DLNicoletti/neurocore-core
+
 ---
 
 ### 🌌 EUROPA™
