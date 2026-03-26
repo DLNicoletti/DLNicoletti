@@ -13,8 +13,8 @@
 Author: Davide Luca Nicoletti  
 First public release: 2026 
 
-### Complex Systems 
-Stochastic Systems Dynamics
+### Complex Systems Modeling
+
 
   <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
 </p>   
@@ -25,12 +25,14 @@ Stochastic Systems Dynamics
 
 ### 🧠 NeuroCore™
 
+https://github.com/DLNicoletti/neurocore-core
 
 <p align="center">
   <img src="Logos/IMG_9677.jpeg" width="600" alt="Schema di Sistema">
 </p>
 
 ---
+Stochastic Systems Dynamics
 
 <p align="center">
   <img src="Logos/IMG_9678.gif" width="600" alt="Demo Animata">
@@ -44,12 +46,13 @@ Stochastic Systems Dynamics
 Functional Stability Modeling in Bioelectrical Systems  
 EEG • fNIRS • Signal Dynamics  
 
-https://github.com/DLNicoletti/neurocore-core
 
 ---
 
 ### 🌌 EUROPA™ 
 (NeuroCore™)
+
+https://github.com/DLNicoletti/Europa
 
 Mapping raw data X → Φ(X)  
 Feature-space transformation and regime encoding  
@@ -66,7 +69,6 @@ EUROPA defines a transformation operator Φ(X) that maps raw data into a structu
 - **Process:** continuous geometric transformation of the feature space  
 - **Output:** structured representation of regimes  
 
-https://github.com/DLNicoletti/Europa
 
 ---
 
@@ -77,6 +79,7 @@ Critical transition at Kc = 1.441
 
 </p>
 
+https://github.com/DLNicoletti/ASHI-
 
 📊 Regime Transition Visualization ↓
 
@@ -158,8 +161,6 @@ ASHI-CORE formalizes the passage:
 
 > from continuous, bounded dynamics  
 > to discrete, structured regime encoding.
-
-https://github.com/DLNicoletti/ASHI-
 
 
 ---
