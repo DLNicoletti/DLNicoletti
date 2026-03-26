@@ -5,13 +5,6 @@
   <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
 </p>   
 
-### 📐
-Author: Davide Luca Nicoletti  
-First public release: 2026 
-
-
----
-
 
 <p align="center">
   <a href="IL_TUO_LINK_ORCID_QUI" target="_blank">
@@ -22,12 +15,27 @@ First public release: 2026
 </p>
 
 
+### 📐
+Author: Davide Luca Nicoletti  
+First public release: 2026 
 
 ---
 
 <p align="center">
 
 ### 🧠 NeuroCore™
+
+
+<p align="center">
+  <img src="Logos/IMG_9677.jpeg" width="600" alt="Schema di Sistema">
+</p>
+
+---
+
+<p align="center">
+  <img src="Logos/IMG_9678.gif" width="600" alt="Demo Animata">
+</p>
+
 
 <a href="https://github.com/DLNicoletti/049200">
   <img src="https://raw.githubusercontent.com/DLNicoletti/DLNicoletti/main/Logos/11BB3278-3D0D-41F3-BBBC-B98035D7EB2E.gif" width="350">
