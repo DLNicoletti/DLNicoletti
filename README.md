@@ -9,15 +9,15 @@
 </p>
 
 
-### 📐
-Author: Davide Luca Nicoletti  
-First public release: 2026 
-
-### Complex Systems Modeling
+### 📐 
+**Author:** Davide Luca Nicoletti  
+**First Public Release:** 2026  
+**Complex Systems Modeling**
 
 
   <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
 </p>   
+
 
 ---
 
