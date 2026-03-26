@@ -1,9 +1,3 @@
-### Complex Systems Modeler
-
-
-<p align="center">
-  <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
-</p>   
 
 
 <p align="center">
@@ -48,7 +42,8 @@ https://github.com/DLNicoletti/neurocore-core
 
 ---
 
-### 🌌 EUROPA™
+### 🌌 EUROPA™ 
+(NeuroCore™)
 
 Mapping raw data X → Φ(X)  
 Feature-space transformation and regime encoding  
@@ -158,7 +153,8 @@ ASHI-CORE formalizes the passage:
 > from continuous, bounded dynamics  
 > to discrete, structured regime encoding.
 
-https://github.com/DLNicoletti/ASHI-CORE
+https://github.com/DLNicoletti/ASHI-
+
 
 ---
 
@@ -170,3 +166,9 @@ Formalization of invariant structures and regime transitions in high-entropy dyn
   <img src="Logos/0CA7E5DA-553D-4284-8B95-351CA1EEB1C8.gif" width="500">
 </p>
 
+### AI 🧠 Complex Systems Modeling
+-- Engineering - Bioengineering - AI 
+
+< p align="center">
+  <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
+</p>   
