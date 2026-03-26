@@ -34,7 +34,7 @@ https://github.com/DLNicoletti/neurocore-core
 </p>
 
 ---
-Stochastic Systems Dynamics
+Stochastic Systems 
 
 <p align="center">
   <img src="Logos/IMG_9678.gif" width="600" alt="Demo Animata">
