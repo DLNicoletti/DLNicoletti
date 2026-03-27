@@ -30,12 +30,6 @@ https://github.com/DLNicoletti/neurocore-core
   <img src="Logos/IMG_9677.jpeg" width="600" alt="Schema di Sistema">
 </p>
 
-[Stochastic Systems Dynamics]
-
-<p align="center">
-  <img src="Logos/IMG_9678.gif" width="600" alt="Demo Animata">
-</p>
-
 
 <a href="https://github.com/DLNicoletti/049200">
   <img src="https://raw.githubusercontent.com/DLNicoletti/DLNicoletti/main/Logos/11BB3278-3D0D-41F3-BBBC-B98035D7EB2E.gif" width="350">
