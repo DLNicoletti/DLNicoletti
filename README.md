@@ -20,7 +20,6 @@
 </p>   
 
 
-
 ---
 
 EEG · fMRI · fNIRS  
