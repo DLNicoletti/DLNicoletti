@@ -22,18 +22,16 @@
 
 ---
 
-04920∩
+λ(t)  
+φ(x) → z → f(z)
+
+---
 
 Complex Systems  
 Functional Regimes  
 State Transitions  
 Signal Structure  
 Inference Dynamics  
-
----
-
-λ(t)  
-φ(x) → z → f(z)
 
 ---
 
