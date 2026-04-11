@@ -26,6 +26,9 @@ Telemetry · Adaptive Systems**
 
 ---
 
+
+![Preview](PNG/IMG_0030.jpeg)
+
 ---
 
 ### Visualizing the Neural Topology
