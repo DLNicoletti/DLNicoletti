@@ -21,19 +21,22 @@
 **EEG · fMRI · fNIRS  
 Telemetry · Adaptive Systems**
 
+**🌐 Domain Agnostic Applications**
+
 ---
 
 ### Neural Topology
+
+**Digital Anesthesia & Neural Topology**
+
+Mapping the critical boundaries of complex systems through the lens of Information Theory.
+
+
 
 
 ![Preview](PNG/IMG_0030.jpeg)
 
 
-**How to Access the Technical Abstract**
-
-The core theoretical and operational principles of the **Neurodynamical Regime Intelligence (NRI)** framework are detailed in a dedicated document. This ensures the technical specificities remain distinct from the implementation details.
-
-To read the universal omeostatic anchor principles, the predictive lead-time metrics, and the cross-dataset validation results, please navigate to the following file:
 
 👉 **[View Abstract: abstract.md](abstract.md)**
 
