@@ -9,7 +9,6 @@ Ecosistema computazionale minimale e agnostico rispetto all'hardware, progettato
 
 **Valore Predittivo:** Rilevazione della rottura della simmetria con un *Lead Time* critico (fino a 18.5 min). Il programma non calcola la probabilità statistica di un evento, ma misura la **deriva deterministica** verso il punto di percolazione ($1.441$), rendendo visibile il collasso del sistema prima della sua manifestazione fisica.
 
-**Obiettivo Finale:** Fornire un'**Autorità Sottile** decisionale in regimi critici (Medicina, Geofisica, Ingegneria Satellitare), trasformando la "purezza" del segnale in conoscenza operativa autonoma.
 
 ---
 
@@ -21,7 +20,3 @@ A minimal, hardware-agnostic computational ecosystem designed to identify asympt
 **Core Mechanism:** By integrating proprietary engines (**NeuroCore™**, **ASHI**, **HDE**), the framework performs dimensional reduction on data streams (EEG, seismic, network traffic), mapping them into a functional manifold. The system identifies the **Homeostatic Anchor ($L \approx 0.55$)** as the metric for structural stability.
 
 **Predictive Value:** Detection of symmetry breaking with a critical **Lead Time (up to 18.5 min)**. Rather than calculating event probability, the program measures the **deterministic drift** toward the percolation point ($1.441$), exposing system collapse before its physical manifestation.
-
-**Final Objective:** To provide **Subtle Authority** for decision-making in critical regimes (Medicine, Geophysics, Satellite Engineering), converting signal "purity" into autonomous operational knowledge.
-
----
