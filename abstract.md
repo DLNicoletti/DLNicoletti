@@ -1,4 +1,4 @@
-# Abstract: Neurodynamical Regime Intelligence (NRI)
+# Abstract
 
 ### [IT] 
 
