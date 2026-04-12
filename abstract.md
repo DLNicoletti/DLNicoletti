@@ -23,7 +23,8 @@ Il sistema identifica l'Ancora Omeostatica attraverso l'indice di invarianza $\i
 
 # [EN] 
 
-### Technical Abstract NeuroCore is a minimal, hardware-agnostic computational ecosystem engineered to identify asymptotic invariants in complex stochastic systems.
+### Technical Abstract 
+**NeuroCore is a minimal, hardware-agnostic computational ecosystem engineered to identify asymptotic invariants in complex stochastic systems.**
 
 **Core Mechanism**: By integrating proprietary engines (ASHI and HDE), the framework performs dimensional reduction of data streams (EEG, biological dynamics, software architectures), mapping them into a functional manifold. The system identifies the Homeostatic Anchor via the Invariance Index $\iota$ ($\iota \approx 0.55$), a fundamental metric of structural network stability.
 
