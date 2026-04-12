@@ -24,18 +24,6 @@ Telemetry · Adaptive Systems**
 
 ---
 
-### Neural Topology
-
-
-
-
-
-![Preview](PNG/IMG_0030.jpeg)
-
-
-
-
-
 
 👉 **[View Abstract: abstract.md](abstract.md)**
 
