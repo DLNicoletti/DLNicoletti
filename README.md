@@ -17,14 +17,13 @@
 
 ## Research 
 
+**🌐 Domain Agnostic Applications**
+
 **EEG · fMRI · fNIRS  
 Telemetry · Adaptive Systems**
 
-**🌐 Domain Agnostic Applications**
-
----
 
 
-👉 **[View Abstract: abstract.md](abstract.md)**
+
 
 
