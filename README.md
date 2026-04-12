@@ -1,4 +1,4 @@
-**Project Identity & Researcher Verification**
+
 
 <div align="left">
 
@@ -10,7 +10,6 @@
 
 **First Public Release:** 2026
 
-**Complex Systems Modeling**
 
 </div>
 
@@ -27,9 +26,6 @@ Telemetry · Adaptive Systems**
 
 ### Neural Topology
 
-**Anesthesia & Neural Topology**
-
-Mapping the critical boundaries of complex systems through the lens of Information Theory.
 
 
 
@@ -37,6 +33,9 @@ Mapping the critical boundaries of complex systems through the lens of Informati
 ![Preview](PNG/IMG_0030.jpeg)
 
 
+
+
+### **#Neuroscienza Computazionale**
 
 👉 **[View Abstract: abstract.md](abstract.md)**
 
