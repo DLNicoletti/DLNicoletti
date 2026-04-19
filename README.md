@@ -9,10 +9,5 @@
 **Davide Luca Nicoletti**
 Independent Researcher | Computational Systems
 
-### Research 
-
-
-**EEG · fMRI · fNIRS
-ICU telemetry · Anesthesia dynamics · Adaptive systems**
 
 
