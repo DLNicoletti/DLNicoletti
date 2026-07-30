@@ -7,7 +7,7 @@
 ---
 
 **Davide Luca Nicoletti**
-Independent Researcher | Computational Systems
+Independent Researcher 
 
 
 
